@@ -1,0 +1,9 @@
+{
+  "name": "devroad-data",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:colomolo/devroad-data.git",
+  "author": "Yuri Mazursky <mail@colomolome.com>",
+  "license": "MIT",
+  "private": false
+}
