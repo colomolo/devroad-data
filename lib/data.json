@@ -1,0 +1,189 @@
+[
+  {
+    "label": "A Complete Guide to Flexbox",
+    "href": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/",
+    "description": "Comprehensive guide to CSS flexbox layout. This complete guide explains everything about flexbox, focusing on all the different possible properties for the parent element (the flex container) and the child elements (the flex items).",
+    "tags": ["css"]
+  },
+  {
+    "label": "A Complete Guide to Grid",
+    "href": "https://css-tricks.com/snippets/css/complete-guide-grid/",
+    "description": "Comprehensive guide to CSS grid, focusing on all the settings both for the grid parent container and the grid child elements.",
+    "tags": ["css"]
+  },
+  {
+    "label": "Critical Rendering Path",
+    "href": "https://developers.google.com/web/fundamentals/performance/critical-rendering-path",
+    "description": "How does the browser transforms HTML and CSS to pixels on a screen.",
+    "tags": ["performance", "browsers"]
+  },
+  {
+    "label": "Tree Shaking",
+    "href": "https://developers.google.com/web/fundamentals/performance/optimizing-javascript/tree-shaking",
+    "description": "Tree shaking is a form of dead code elimination. The term was popularized by Rollup, but the concept of dead code elimination has existed for some time. The concept has also found purchase in webpack, which is demonstrated in this article by way of a sample app.",
+    "tags": ["performance", "browsers"]
+  },
+  {
+    "label": "CSS Utility Classes and “Separation of Concerns”",
+    "href": "https://adamwathan.me/css-utility-classes-and-separation-of-concerns/",
+    "description": "A good point on separation of styles from the creator of Tailwind CSS framework.",
+    "tags": ["css", "html"]
+  },
+  {
+    "label": "A Complete Guide to useEffect",
+    "href": "https://overreacted.io/a-complete-guide-to-useeffect/",
+    "description": "Dan Abramov on everything about useEffect.",
+    "tags": ["react"]
+  },
+  {
+    "label": "Debouncing and Throttling Explained Through Examples",
+    "href": "https://css-tricks.com/debouncing-throttling-explained-examples/",
+    "description": "A differences between debounce and throttling and their implementation techniques explained with visual examples.",
+    "tags": ["algorithms"]
+  },
+  {
+    "label": "CSS stats",
+    "href": "https://cssstats.com/",
+    "description": "CSS Stats provides analytics and visualizations for your stylesheets. This information can be used to improve consistency in your design, track performance of your app, and diagnose complex areas before it snowballs out of control.",
+    "tags": ["css", "tools"]
+  },
+  {
+    "label": "Preload critical assets to improve loading speed",
+    "href": "https://web.dev/preload-critical-assets/",
+    "description": "Optimize web page performance by preloading assets before the browser discovers them.",
+    "tags": ["browsers", "performance", "html", "css", "javascript"]
+  },
+  {
+    "label": "Scripts To Rule Them All",
+    "href": "https://github.blog/2015-06-30-scripts-to-rule-them-all/",
+    "description": "A normalized script patterns that GitHub uses in its projects.",
+    "tags": ["cicd"]
+  },
+  {
+    "label": "JWT authentication: When and how to use it",
+    "href": "https://blog.logrocket.com/jwt-authentication-best-practices/",
+    "description": "Learn when JWT is best used, when it’s best to use something else, and how to prevent the most basic security issues.",
+    "tags": ["authorization"]
+  },
+  {
+    "label": "Simplifying CSS Selectors",
+    "href": "https://www.stevesouders.com/blog/2009/06/18/simplifying-css-selectors/",
+    "description": "CSS selectors are evaluated from right to left, so the way you define them might affect performance.",
+    "tags": ["css"]
+  },
+  {
+    "label": "The Twelve-Factor App",
+    "href": "https://12factor.net/",
+    "description": "Methodology for building and maintaining modern web apps.",
+    "tags": ["architecture"]
+  },
+  {
+    "label": "Execution of Synchronous and Asynchronous codes",
+    "href": "https://medium.com/@siddharthac6/javascript-execution-of-synchronous-and-asynchronous-codes-40f3a199e687",
+    "description": "How does Javascript asynchronous code really work.",
+    "tags": ["javascript", "basics"]
+  },
+  {
+    "label": "Truly understanding Async/Await",
+    "href": "https://medium.com/@rafaelvidaurre/truly-understanding-async-await-491dd580500e",
+    "description": "",
+    "tags": ["javascript", "basics"]
+  },
+  {
+    "label": "CanIUse",
+    "href": "https://caniuse.com",
+    "description": "Invaluable tool for keeping track on what technologies are currently implemented in browsers.",
+    "tags": ["browsers", "css", "javascript", "tools"]
+  },
+  {
+    "label": "Werf",
+    "href": "https://werf.io",
+    "description": "GitOps CLI tool. Consistent delivery tool. Git as a single source of truth. Build, deploy to Kubernetes, stay in sync.",
+    "tags": ["cicd", "tools"]
+  },
+  {
+    "label": "CSS Triggers",
+    "href": "https://csstriggers.com",
+    "description": "Tells you what gets triggered by mutating a given CSS property.",
+    "tags": ["css", "tools", "browsers"]
+  },
+  {
+    "label": "Easing Functions Cheat Sheet",
+    "href": "https://easings.net/",
+    "description": "Make animations more realistic by picking the right easing function.",
+    "tags": ["css", "tools"]
+  },
+  {
+    "label": "React TypeScript Cheatsheets",
+    "href": "https://react-typescript-cheatsheet.netlify.app",
+    "description": "Cheatsheets for experienced React developers getting started with TypeScript",
+    "tags": ["typescript", "react"]
+  },
+  {
+    "label": "How to Favicon in 2021",
+    "href": "https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs",
+    "description": "How to prepare favicons for most popular usecases.",
+    "tags": ["css", "html"]
+  },
+  {
+    "label": "TypeScript Deep Dive",
+    "href": "https://basarat.gitbook.io/typescript/",
+    "description":
+      "From the author: The definitive guide to TypeScript and possibly the best TypeScript book",
+    "tags": ["typescript"]
+  },
+  {
+    "label": ".bind() For Dummies",
+    "href": "https://medium.com/@dave_lunny/bind-for-dummies-5d1a750725b8",
+    "description": "Short and simple explanation of how does bind method work.",
+    "tags": ["javascript", "basics"]
+  },
+  {
+    "label": "Understanding JavaScript Function Invocation and \"this\"",
+    "href": "https://yehudakatz.com/2011/08/11/understanding-javascript-function-invocation-and-this/",
+    "description": "A look on \"this\" from the core function invocation primitive perspective.",
+    "tags": ["javascript", "basics"]
+  },
+  {
+    "label": "Before You memo()",
+    "href": "https://overreacted.io/before-you-memo/",
+    "description": "Some techniques to optimize React components composition and get a performance boost for free.",
+    "tags": ["react", "performance"]
+  },
+  {
+    "label": "How Floating Works",
+    "href": "https://bitsofco.de/how-floating-works/",
+    "description": "",
+    "tags": ["css"]
+  },
+  {
+    "label": "What the heck is the event loop anyway?",
+    "href": "https://www.youtube.com/watch?v=8aGhZQkoFbQ",
+    "description": "Philip Roberts talk on words like, “event-loop”, “non-blocking”, “callback”, “asynchronous”, “single-threaded” and “concurrency”.",
+    "tags": ["javascript"]
+  },
+  {
+    "label": "How Does CSS Work?",
+    "href": "https://elad.medium.com/how-does-css-work-92fe7116916d",
+    "description": "Understanding the Default Behavior of Styles in Our Browsers",
+    "tags": ["css"]
+  },
+  {
+    "label": "Type challenges",
+    "href": "https://github.com/type-challenges/type-challenges",
+    "description": "A handful of Typescript challenges of various complexity",
+    "tags": ["typescript"]
+  },
+  {
+    "label": "await vs return vs return await",
+    "href": "https://jakearchibald.com/2017/await-vs-return-vs-return-await/",
+    "description": "",
+    "tags": ["javascript"]
+  },
+  {
+    "label": "Google HTML/CSS Style Guide",
+    "href": "https://google.github.io/styleguide/htmlcssguide.html",
+    "description": "Document defines formatting and style rules for HTML and CSS. It aims at improving collaboration, code quality, and enabling supporting infrastructure.",
+    "tags": ["html", "css"]
+  }
+]

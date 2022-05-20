@@ -8,8 +8,8 @@ Materials for [Devroad](http://devroad.tech) project.
 4. [Drop me a line](mailto:mail@colomolome.com) if you have suggestions or comments on the project.
 
 ### Files to modify
-1. [`data.js`](/lib/data.js) - for your links. Please add a brief summary of material.
-2. [`tags.js`](/lib/tags.js) - for tags.
+1. [`data.json`](/lib/data.json) - for your links. Please add a brief summary of material.
+2. [`tags.json`](/lib/tags.json) - for tags.
 
 Please open a Pull Request with your changes, and I will review it as fast as I can.
 
