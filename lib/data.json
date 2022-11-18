@@ -185,5 +185,11 @@
     "href": "https://google.github.io/styleguide/htmlcssguide.html",
     "description": "Document defines formatting and style rules for HTML and CSS. It aims at improving collaboration, code quality, and enabling supporting infrastructure.",
     "tags": ["html", "css"]
+  },
+  {
+    "label": "patterns.dev",
+    "href": "https://www.patterns.dev",
+    "description": "Patterns.dev is a free book on design patterns and component patterns for building powerful web apps with vanilla JavaScript and React.",
+    "tags": ["javascript", "architecture", "browsers", "performance"]
   }
 ]
