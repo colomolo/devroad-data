@@ -5,5 +5,8 @@
   "repository": "git@github.com:colomolo/devroad-data.git",
   "author": "Yuri Mazursky <mail@colomolome.com>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "devDependencies": {
+    "semantic-release": "^19.0.5"
+  }
 }
