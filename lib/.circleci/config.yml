@@ -8,8 +8,10 @@ jobs:
       - image: cimg/base:stable
     steps:
       - checkout
-      - run: node --version
       - node/install
+      - restore_cache:
+          key: dependency-cache-{{ checksum "package.json" }}
+      - run: node --version
       - run: npm install
       - run: npm run semantic-release
 
