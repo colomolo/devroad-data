@@ -6,6 +6,9 @@
   "author": "Yuri Mazursky <mail@colomolome.com>",
   "license": "MIT",
   "private": false,
+  "scripts": {
+    "semantic-release": "semantic-release"
+  },
   "devDependencies": {
     "semantic-release": "^19.0.5"
   }
