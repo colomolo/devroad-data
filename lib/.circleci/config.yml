@@ -9,14 +9,11 @@ jobs:
     steps:
       - checkout
       - node/install
-      - restore_cache:
-          key: dependency-cache-{{ checksum "package.json" }}
       - run: node --version
       - run: npm install
       - run: npm run semantic-release
 
 workflows:
-  version: 2
   test_and_release:
     jobs:
       - release:
