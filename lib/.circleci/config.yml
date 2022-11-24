@@ -21,4 +21,4 @@ workflows:
           filters:
             branches:
               only:
-                - main
+                - semantic-release
