@@ -2,22 +2,22 @@ version: 2.1
 orbs:
   node: circleci/node@5.0.3
 
-release:
+jobs:
+  release:
     docker:
       - image: cimg/base:stable
     steps:
       - checkout
-      - run: node --version
       - node/install
+      - run: node --version
       - run: npm install
       - run: npm run semantic-release
 
 workflows:
-  version: 2
   test_and_release:
     jobs:
       - release:
           filters:
             branches:
               only:
-                - main
+                - semantic-release
