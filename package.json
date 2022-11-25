@@ -13,7 +13,7 @@
     "semantic-release": "^19.0.5"
   },
   "release": {
-    "branches": ["semantic-release"],
+    "branches": ["main"],
     "plugins": [
       "@semantic-release/github"
     ]
