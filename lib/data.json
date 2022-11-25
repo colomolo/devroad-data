@@ -190,6 +190,6 @@
     "label": "patterns.dev",
     "href": "https://www.patterns.dev",
     "description": "Patterns.dev is a free book on design patterns and component patterns for building powerful web apps with vanilla JavaScript and React.",
-    "tags": ["javascript", "architecture", "browsers", "performance"]
+    "tags": ["javascript", "architecture", "browsers", "performance", "react"]
   }
 ]
