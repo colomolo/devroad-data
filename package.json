@@ -14,6 +14,7 @@
   },
   "release": {
     "branches": ["main"],
+    "repositoryUrl": "git@github.com:colomolo/devroad-data.git",
     "plugins": [
       "@semantic-release/github"
     ]
