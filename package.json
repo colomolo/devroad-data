@@ -11,5 +11,11 @@
   },
   "devDependencies": {
     "semantic-release": "^19.0.5"
+  },
+  "release": {
+    "branches": ["main"],
+    "plugins": [
+      "@semantic-release/github"
+    ]
   }
 }
