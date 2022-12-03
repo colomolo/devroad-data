@@ -15,6 +15,13 @@
   "release": {
     "branches": ["main"],
     "plugins": [
+      ["@semantic-release/commit-analyzer", {
+        "preset": "angular",
+        "releaseRules": [
+          {"type": "*", "scope": "lib/tags.json", "release": "patch"},
+          {"type": "*", "scope": "lib/data.json", "release": "minor"}
+        ]
+      }],
       "@semantic-release/github",
       "@semantic-release/npm"
     ]
