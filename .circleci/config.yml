@@ -20,4 +20,4 @@ workflows:
           filters:
             branches:
               only:
-                - auto-bump-test
+                - main

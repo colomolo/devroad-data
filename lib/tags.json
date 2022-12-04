@@ -110,12 +110,5 @@
     "color": "#fff",
     "bgColor": "#ff4dA2",
     "description": "Common knowledge about language or framework fundamentals."
-  },
-  {
-    "id": "basics2",
-    "label": "Basics 2",
-    "color": "#fff",
-    "bgColor": "#ff4dA2",
-    "description": "Common knowledge about language or framework fundamentals."
   }
 ]

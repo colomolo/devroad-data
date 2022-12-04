@@ -7,13 +7,13 @@
   "license": "MIT",
   "private": false,
   "scripts": {
-    "semantic-release": "semantic-release -d --debug"
+    "semantic-release": "semantic-release"
   },
   "devDependencies": {
     "semantic-release": "^19.0.5"
   },
   "release": {
-    "branches": ["auto-bump-test"],
+    "branches": ["main"],
     "plugins": [
       ["@semantic-release/commit-analyzer", {
         "preset": "angular",
