@@ -18,8 +18,7 @@
       ["@semantic-release/commit-analyzer", {
         "preset": "angular",
         "releaseRules": [
-          {"scope": "lib/tags.json", "release": "minor"},
-          {"scope": "lib/data.json", "release": "patch"}
+          {"scope": "lib", "release": "patch"}
         ]
       }],
       "@semantic-release/github",
