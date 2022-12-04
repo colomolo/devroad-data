@@ -203,5 +203,11 @@
     "href": "https://blog.nelhage.com/2016/03/design-for-testability/",
     "description": "When designing a new software project, one is often faced with a glut of choices about how to structure it. What should the core abstractions be? How should they interact with each other?",
     "tags": ["architecture", "testing"]
+  },
+  {
+    "label": "",
+    "href": "",
+    "description": "",
+    "tags": []
   }
 ]
