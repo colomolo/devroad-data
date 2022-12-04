@@ -7,19 +7,20 @@
   "license": "MIT",
   "private": false,
   "scripts": {
-    "semantic-release": "semantic-release"
+    "semantic-release": "semantic-release -d --debug"
   },
   "devDependencies": {
     "semantic-release": "^19.0.5"
   },
   "release": {
-    "branches": ["main"],
+    "branches": ["auto-bump-test"],
     "plugins": [
       ["@semantic-release/commit-analyzer", {
         "preset": "angular",
         "releaseRules": [
-          {"type": "*", "scope": "lib/tags.json", "release": "patch"},
-          {"type": "*", "scope": "lib/data.json", "release": "minor"}
+          {"type": "*", "scope": "lib/tags.json", "release": "minor"},
+          {"type": "*", "scope": "lib/data.json", "release": "patch"},
+          {"release": "patch"}
         ]
       }],
       "@semantic-release/github",
