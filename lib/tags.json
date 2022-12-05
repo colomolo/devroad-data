@@ -93,7 +93,7 @@
   {
     "id": "testing",
     "label": "Testing",
-    "color": "#fff",
+    "color": "#000",
     "bgColor": "#ff8541",
     "description": ""
   },
@@ -101,7 +101,7 @@
     "id": "architecture",
     "label": "Architecture",
     "color": "#fff",
-    "bgColor": "#099417",
+    "bgColor": "#499751",
     "description": "How to organize codebase, APIs or app structure."
   },
   {
