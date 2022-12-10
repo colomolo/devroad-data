@@ -209,5 +209,11 @@
     "href": "https://semver.npmjs.com",
     "description": "",
     "tags": ["tools"]
+  },
+  {
+    "label": "Tasks, microtasks, queues and schedules",
+    "href": "https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules",
+    "description": "Deep dive into queueing and execution order in Javascript with browsers comparison.",
+    "tags": ["javascript"]
   }
 ]
